@@ -1,5 +1,7 @@
 # Simple Websocket Communication!
 
+## IN DEVELOPMENT WITH NEW CRAZY CHANGE
+
 EXIT LARAVEL ECHO WITH REVERB AND SOME OF ITS VARIANTS. Take control of your time. That is the glorious purpose.
 (little joke with Loki, the true God of Marvel)
 
